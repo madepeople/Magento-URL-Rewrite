@@ -1,5 +1,5 @@
 {
-  "name": "madepeople/Magento-URL-Rewrite",
+  "name": "madepeople/magento-url-rewrite",
   "license": "BSD-4-Clause",
   "type": "magento-module",
   "description": "Fix duplicated and trash rewrites in default Magento URL rewrite system (core_url_rewrite table)",
